@@ -27,4 +27,9 @@ You can click on the below Google Drive Link and download the apk version of the
 Link for download 
 https://drive.google.com/drive/folders/16VaFYeJDCQxZYUoGhI8Bo60jJhPryd-7?usp=sharing
 
+Option 3 (for online play)
+https://tictactoesimplegameapp.tiiny.site/
+Click the above link to play online
+
+
 
