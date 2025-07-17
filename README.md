@@ -24,5 +24,7 @@ You can click on the green button and then download the code as a zip file and l
 
 Option 2 (for phone)
 You can click on the below Google Drive Link and download the apk version of the mobile app to your phone
+Link for download 
+https://drive.google.com/drive/folders/16VaFYeJDCQxZYUoGhI8Bo60jJhPryd-7?usp=sharing
 
 
